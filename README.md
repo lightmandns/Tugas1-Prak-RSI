@@ -11,3 +11,6 @@ Rekayasa Sistem Informasi merupakan mata kuliah yang mempelajari metode, teknik,
 
 ## Making Conflict
 tadi lupa, project leader menerima pull req dari dev 1 dan dev 2. dev 3 ketinggalan dan meng-clone repo yang sudah dimerge sehingga tidak menghasilkan conflict ketika PR
+
+## Tujuan Projct
+Project ini bertujuan untuk mempelajari penggunaan GitHub.
