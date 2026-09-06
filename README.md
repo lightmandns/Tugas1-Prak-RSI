@@ -8,3 +8,6 @@
 
 ### Pengertian RSI
 Rekayasa Sistem Informasi merupakan mata kuliah yang mempelajari metode, teknik, dan proses dalam merancang, mengembangkan, serta mengelola sistem informasi sesuai kebutuhan organisasi. Mata kuliah ini membantu mahasiswa memahami bagaimana mengubah kebutuhan pengguna menjadi solusi teknologi yang efektif dan dapat diimplementasikan secara nyata.
+
+## Making Conflict
+tadi lupa, project leader menerima pull req dari dev 1 dan dev 2. dev 3 ketinggalan dan meng-clone repo yang sudah dimerge sehingga tidak menghasilkan conflict ketika PR
